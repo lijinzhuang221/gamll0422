@@ -1,2 +1,1 @@
-# gamll0422
-##test
+通用mapper测试
